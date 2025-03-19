@@ -282,9 +282,9 @@ fi
 
 echo "
               ${tty_green} 开始执行Homebrew自动安装程序 ${tty_reset}
-            ${tty_cyan} [cunkai.wang@foxmail.com] ${tty_reset}
+            ${tty_cyan} [---] ${tty_reset}
           ['$TIME']['$macos_version']
-      ${tty_cyan} https://zhuanlan.zhihu.com/p/111014448 ${tty_reset}
+      ${tty_cyan} https://github.com ${tty_reset}
 "
 #选择一个brew下载源
 echo -n "${tty_green}
