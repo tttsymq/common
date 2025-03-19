@@ -1,5 +1,4 @@
 #HomeBrew自动安装脚本
-#cunkai.wang@foxmail.com
 #brew brew brew brew
 
 #获取系统时间
