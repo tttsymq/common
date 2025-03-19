@@ -8,7 +8,7 @@ TIME=$(date "+%Y-%m-%d %H:%M:%S")
 UNAME_MACHINE="$(uname -m)"
 #在X86电脑上测试arm电脑
 # UNAME_MACHINE="arm64"
-Brew_Install="https://gitee.com/Homebrew2/install/raw/master/install.sh"
+Brew_Install="https://raw.githubusercontent.com/tttsymq/common/refs/heads/main/install.sh"
 
 # 判断是Linux还是Mac os
 OS="$(uname)"
